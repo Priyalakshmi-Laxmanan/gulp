@@ -1,0 +1,18 @@
+$whiteColor: #fff;
+
+html {
+	body {
+		font-weight: 300;
+		font-size: 16px;
+		background: $whiteColor;
+	}
+}
+
+.roundedBorder {	
+	transform: scale(0.5);
+	border-radius: 10px 5px;
+}
+
+.testing {
+  width: percentage(9/7);
+}
